@@ -17,7 +17,7 @@
 ### Back-End
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://coursework.vschool.io/content/images/2015/11/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67.png" alt="express" height="40"/> </a>
-<a href="https://sequelize.org" target="_blank" rel="noreferrer"> <img src="https://i.blogs.es/91493f/sequelize/1366_2000.png" alt="sequelize" height="40"/> </a> 
+<a href="https://sequelize.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" height="40"/> </a> 
 
 
 ### Database
