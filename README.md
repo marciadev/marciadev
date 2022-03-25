@@ -4,6 +4,8 @@
 #### I'm a Full Stack Web Developer and English Language Teacher
 ![I'm a Full Stack Web Developer and English Language Teacher](https://i1.wp.com/blog.logrocket.com/wp-content/uploads/2020/08/Dino_non-birthday_version.gif?resize=730%2C231&ssl=1)
 
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/03/PERN.png" alt="pern" width="40" height="40"/>
+
 
 ## Languages, Technologies and Tools
 
