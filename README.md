@@ -1,8 +1,21 @@
 
-# console.log( #Hi there! 👋)
+# console.log( #Hi there! 👋 :wave: )
 ### My name is Marcia!
 #### I'm a Full Stack Web Developer and English Language Teacher
 ![I'm a Full Stack Web Developer and English Language Teacher](https://i1.wp.com/blog.logrocket.com/wp-content/uploads/2020/08/Dino_non-birthday_version.gif?resize=730%2C231&ssl=1)
+
+## Glad to see you here!
+I’m currently working on a project for Henry's bootcamp.
+
+Love interacting with the community, share knowledge and learn new things.
+
+## Some info about me:
+:information_desk_person:   I’m Marcia Leite (marciadev).
+🏢 I currently study at Henry's bootcamp.
+💬 Ask me about anything, I am happy to help.
+📝 I regulary write articles.
+🎞️ I make fun coding videos.
+🧑‍🤝‍🧑 I help with the organization of some technical communities.
 
 
 ## Languages, Technologies and Tools
@@ -33,7 +46,7 @@
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/> </a> 
 <hr/>
 
-### Would you like to know more about me?
+### 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/marciadev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="linkedin profile" width="40" height="40" /></a>&nbsp;
 <a href="mailto:maar94_th@hotmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/2086px-Microsoft_Outlook_2013-2019_logo.svg.png" alt="hotmail" width="40" height="40" /></a>&nbsp;
 <a href="mailto:marcialeite483@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40" /></a>
