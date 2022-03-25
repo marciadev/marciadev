@@ -36,4 +36,4 @@
 ### Would you like to know more about me?
 <a href="https://www.linkedin.com/in/marciadev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="linkedin profile" width="40" height="40" /></a>&nbsp;
 <a href="mailto:maar94_th@hotmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/2086px-Microsoft_Outlook_2013-2019_logo.svg.png" alt="hotmail" width="40" height="40" /></a>&nbsp;
-<a href="mailto:marcialeite483@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="gmail" width="40" height="40" /></a>
+<a href="mailto:marcialeite483@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40" /></a>
