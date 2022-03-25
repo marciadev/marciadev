@@ -1,7 +1,7 @@
 
-# console.log( #Hi there! 👋 :wave: )
+# console.log( #Hi there! 👋 )
 ### My name is Marcia!
-#### I'm a Full Stack Web Developer and English Language Teacher
+#### I'm a Full Stack Web Developer :woman_technologist: and English Language Teacher :woman_teacher:
 ![I'm a Full Stack Web Developer and English Language Teacher](https://i1.wp.com/blog.logrocket.com/wp-content/uploads/2020/08/Dino_non-birthday_version.gif?resize=730%2C231&ssl=1)
 
 ## Glad to see you here!
@@ -10,12 +10,11 @@ I’m currently working on a project for Henry's bootcamp.
 Love interacting with the community, share knowledge and learn new things.
 
 ## Some info about me:
-:information_desk_person:   I’m Marcia Leite (marciadev).
-🏢 I currently study at Henry's bootcamp.
+:woman: I’m Marcia Leite (marciadev).
+📝 I currently work on a project for Henry's bootcamp.
 💬 Ask me about anything, I am happy to help.
-📝 I regulary write articles.
-🎞️ I make fun coding videos.
-🧑‍🤝‍🧑 I help with the organization of some technical communities.
+🎞️ I like movies.
+:pizza: I love pizza.
 
 
 ## Languages, Technologies and Tools
