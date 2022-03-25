@@ -13,7 +13,6 @@ Love interacting with the community, share knowledge and learn new things.
 :woman: I’m Marcia Leite (marciadev).
 📝 I currently work on a project for Henry's bootcamp.
 💬 Ask me about anything, I am happy to help.
-:pizza: I love pizza.
 
 
 ## Languages, Technologies and Tools
