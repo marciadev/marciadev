@@ -29,7 +29,6 @@ Love interacting with the community, share knowledge and learn new things.
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://coursework.vschool.io/content/images/2015/11/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67.png" alt="express" height="40"/> </a>
 <a href="https://sequelize.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" height="40"/> </a> 
 
-
 ### Database
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> 
 
@@ -47,3 +46,36 @@ Love interacting with the community, share knowledge and learn new things.
 <a href="https://www.linkedin.com/in/marciadev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="linkedin profile" width="40" height="40" /></a>&nbsp;
 <a href="mailto:maar94_th@hotmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/2086px-Microsoft_Outlook_2013-2019_logo.svg.png" alt="hotmail" width="40" height="40" /></a>&nbsp;
 <a href="mailto:marcialeite483@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40" /></a>
+
+
+## Projects:
+
+[Videogames Project](https://github.com/marciadev/pi-videogames)
+
+SPA (Single Page Application), created from end-to-end implementing all the contents covered throughout the bootcamp. This app
+allows users to look for different videogames, access to videogames details, filter them by genre, sort them alphabetically and by ascending and descending ratings, create their own videogames, entering data into a controlled form.
+***Database: PostgreSQL, Sequelize
+*Front End:React, Redux, CSS
+*Back End: NodeJS, express
+*Language: JavaScript
+*Web API: rawg.io
+
+[Weather App](https://github.com/marciadev/What-is-the-weather-like-today-App)
+
+[Search Movies App](https://github.com/marciadev/Search-Movies-App)
+
+[Timer](https://github.com/marciadev/chronometer)
+
+[To Do List](https://github.com/marciadev/to-do-list)
+
+
+
+
+
+
+
+
+
+
+
+
