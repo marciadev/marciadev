@@ -50,25 +50,25 @@ Love interacting with the community, share knowledge and learn new things.
 
 ## :woman_technologist: My Projects:
 
-[Videogames Project](https://github.com/marciadev/pi-videogames)
+[Videogames Project](https://github.com/marciadev/pi-videogames) :video_game: :joystick: :game_die:
 
 https://www.linkedin.com/feed/update/urn:li:activity:6907768700251033600/
 
 ![Captura de pantalla (1409)](https://user-images.githubusercontent.com/86635927/160059026-77fc382a-bd75-4d91-9520-0c88102ebace.png)
 
-[Weather App](https://github.com/marciadev/What-is-the-weather-like-today-App)
+[Weather App](https://github.com/marciadev/What-is-the-weather-like-today-App) :sunny: :thermometer: :sun_behind_rain_cloud:
 
 ![weatherVideo](https://user-images.githubusercontent.com/86635927/160052136-1bc6903e-ba7a-40e3-9f25-9ed77346c084.gif)
 
-[Search Movies App](https://github.com/marciadev/Search-Movies-App)
+[Search Movies App](https://github.com/marciadev/Search-Movies-App) :movie_camera: :clapper: :film_strip:
 
 https://user-images.githubusercontent.com/86635927/160054549-a6388b82-c122-461b-98ca-f89b7aaf1d02.mp4
 
-[Timer](https://github.com/marciadev/chronometer)
+[Timer](https://github.com/marciadev/chronometer) :stopwatch: :hourglass_flowing_sand: :timer_clock:
 
 ![Timer](https://user-images.githubusercontent.com/86635927/160056574-7169cf4b-5c6e-4792-b43d-f62bee7f184f.gif)
 
-[To Do List](https://github.com/marciadev/to-do-list)
+[To Do List](https://github.com/marciadev/to-do-list) :bookmark_tabs: :page_facing_up: :pencil2:
 
 ![to-do-list](https://user-images.githubusercontent.com/86635927/160057734-3093a46f-d207-4d9d-ab89-63f1d5dd26e5.gif)
 
