@@ -51,14 +51,7 @@ Love interacting with the community, share knowledge and learn new things.
 ## Projects:
 
 [Videogames Project](https://github.com/marciadev/pi-videogames)
-
-SPA (Single Page Application), created from end-to-end implementing all the contents covered throughout the bootcamp. This app
-allows users to look for different videogames, access to videogames details, filter them by genre, sort them alphabetically and by ascending and descending ratings, create their own videogames, entering data into a controlled form.
-***Database: PostgreSQL, Sequelize
-*Front End:React, Redux, CSS
-*Back End: NodeJS, express
-*Language: JavaScript
-*Web API: rawg.io
+![weatherVideo](https://user-images.githubusercontent.com/86635927/160052136-1bc6903e-ba7a-40e3-9f25-9ed77346c084.gif)
 
 [Weather App](https://github.com/marciadev/What-is-the-weather-like-today-App)
 
