@@ -5,13 +5,13 @@
 ![I'm a Full Stack Web Developer and English Language Teacher](https://i1.wp.com/blog.logrocket.com/wp-content/uploads/2020/08/Dino_non-birthday_version.gif?resize=730%2C231&ssl=1)
 
 ## Glad to see you here!
-I’m currently working as Teaching Assistant at Henry's bootcamp.
+I've worked as Teaching Assistant at Henry's bootcamp.
 
 Love interacting with the community, share knowledge and learn new things.
 
 ## Some information about me:
 :woman: I’m Marcia Leite (marciadev).
-📝 I currently work on a project for Henry's bootcamp.
+📝 I've recently finished a project for Henry's bootcamp.
 💬 Ask me about anything, I am happy to help.
 
 
