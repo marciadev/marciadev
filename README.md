@@ -45,6 +45,14 @@ Love interacting with the community, share knowledge and learn new things.
 
 ## :woman_technologist: My Projects:
 
+[E-commerce: ElectroShop](https://github.com/marciadev/E-Commerce-G7) :headphones: :computer: :credit_card:
+
+https://electroshop-ecommerce.vercel.app/
+
+![electroshop](https://user-images.githubusercontent.com/86635927/164322716-86c21681-9e25-489c-b945-0ae88030b5cc.png)
+
+
+<hr/>
 
 [Videogames Project](https://github.com/marciadev/pi-videogames) :video_game: :joystick: :game_die:
 
