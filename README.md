@@ -64,7 +64,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:6907768700251033600/
 
 [Search Movies App](https://github.com/marciadev/Search-Movies-App) :movie_camera: :clapper: :film_strip:
 
-https://user-images.githubusercontent.com/86635927/160054549-a6388b82-c122-461b-98ca-f89b7aaf1d02.mp4
+https://user-images.githubusercontent.com/86635927/164321272-bc675d8e-44f1-4d22-be84-27aee4782a63.mp4
 
 
 <hr/>
